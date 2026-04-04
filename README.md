@@ -1,4 +1,4 @@
-# Mouse
+# Squeak
 This is a customize mouse modelled using fusion 360.
 
 ## Features:
