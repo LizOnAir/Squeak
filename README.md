@@ -1,6 +1,8 @@
 # Squeak
 A 3d print customize mouse. I created this to replace my old broken mouse :D. 
 
+<img width="3024" height="4032" alt="IMG_3020" src="https://github.com/user-attachments/assets/39587edb-7f90-4cae-9fa1-7def33bf5f6e" />
+
 ## Features:
 - wireless
 
